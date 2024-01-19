@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "email": "arisarkar.mail@gmail.com",
+      "password": "123456",
+      "name": "Arindam Sarkar",
+      "following": [
+        "4f6bf048-cd82-4abd-9e7c-03f11b45504f",
+        "4994017a-1d6a-41bc-9df2-1372152251c0"
+      ],
+      "followers": [
+        "4f6bf048-cd82-4abd-9e7c-03f11b45504f",
+        "4994017a-1d6a-41bc-9df2-1372152251c0"
+      ],
+      "userId": "d6c93462-31c3-4fa5-9c9f-42f9b02605cd"
+    },
+    {
+      "email": "adas@gmail.com",
+      "password": "123456",
+      "name": "Ankita Das",
+      "following": [
+        "d6c93462-31c3-4fa5-9c9f-42f9b02605cd",
+        "4994017a-1d6a-41bc-9df2-1372152251c0"
+      ],
+      "followers": [
+        "4994017a-1d6a-41bc-9df2-1372152251c0",
+        "d6c93462-31c3-4fa5-9c9f-42f9b02605cd"
+      ],
+      "userId": "4f6bf048-cd82-4abd-9e7c-03f11b45504f"
+    },
+    {
+      "email": "bishal@gmail.com",
+      "password": "123456",
+      "name": "Bishal Saha",
+      "following": [
+        "d6c93462-31c3-4fa5-9c9f-42f9b02605cd",
+        "4f6bf048-cd82-4abd-9e7c-03f11b45504f",
+        "f33fd3be-181d-42ea-aebd-f63294019a1c"
+      ],
+      "followers": [
+        "d6c93462-31c3-4fa5-9c9f-42f9b02605cd",
+        "4f6bf048-cd82-4abd-9e7c-03f11b45504f"
+      ],
+      "userId": "4994017a-1d6a-41bc-9df2-1372152251c0"
+    },
+    {
+      "email": "gora@gmail.com",
+      "password": "123456",
+      "name": "Gora Nandy",
+      "following": [],
+      "followers": [
+        "4994017a-1d6a-41bc-9df2-1372152251c0"
+      ],
+      "userId": "f33fd3be-181d-42ea-aebd-f63294019a1c"
+    },
+    {
+      "email": "ari@s.c",
+      "password": "123456",
+      "name": "Ari",
+      "following": [],
+      "followers": [],
+      "userId": "3f77a634-934e-4037-b32b-e771cc8b4c98"
+    }
+  ],
+  "posts": [
+    {
+      "userId": "4f6bf048-cd82-4abd-9e7c-03f11b45504f",
+      "userName": "Ankita Das",
+      "textField": "Hello ! this is my first post here.",
+      "time": 1705654478182,
+      "postId": "8212ad72-9852-4671-812b-efd1b7223529"
+    },
+    {
+      "userId": "d6c93462-31c3-4fa5-9c9f-42f9b02605cd",
+      "userName": "Arindam Sarkar",
+      "textField": "Hi! My name is Arindam Sarkar. I am Front End Developer with 3+ years of experience in Angular + Ionic.",
+      "time": 1705654839566,
+      "postId": "3d046ed9-e714-4a25-ae76-4191d89887f9"
+    },
+    {
+      "userId": "4994017a-1d6a-41bc-9df2-1372152251c0",
+      "userName": "Bishal Saha",
+      "textField": "Hi, my name is Bishal Saha",
+      "time": 1705657845849,
+      "postId": "064ddb62-a96e-4a11-a7b0-79a679005086"
+    },
+    {
+      "userId": "4994017a-1d6a-41bc-9df2-1372152251c0",
+      "userName": "Bishal Saha",
+      "textField": "I'm from Nabadwip",
+      "time": 1705657900377,
+      "postId": "a785b870-4c15-446e-8b75-67f2e10627c9"
+    }
+  ]
+}
