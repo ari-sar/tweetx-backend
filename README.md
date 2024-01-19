@@ -1,1 +1,1 @@
-# tweetx-backend
+# main branch is master
